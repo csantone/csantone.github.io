@@ -1,0 +1,185 @@
+
+
+html, body {
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	background-color: #F7F7F8;
+  z-index: 50000;
+}
+
+html {
+	background-color: #F7F7F8;
+}
+
+.main {
+	width: 100%;
+	height: 100%;
+  z-index: 1050;
+}
+
+body {
+}
+
+
+h2 {
+	font-family: museo-sans, arial, sans-serif;
+	font-weight: 700;
+	font-size: 2ex;
+	position:  fixed;
+}
+
+.contact-column {
+	position: absolute;
+	width: 4em;
+	height:10em;
+	top: 6em;
+	float: left;
+	margin-left: 25px;
+  z-index: 1080
+}
+
+.clear {
+	clear: both;
+}
+	
+a { 
+	text-decoration:none;
+	color: white;
+}
+
+
+.container{
+	margin: 0em;
+	padding: 1em;
+}
+
+.gallery-container {
+	width: 500px;
+	margin-left: 250px;
+	margin-top: 40px;
+}
+
+p {
+	font-family: museo-sans, arial, sans-serif;
+	font-weight: 300;
+	font-size: 2ex;
+}
+
+.running-text {
+	font-family: museo-sans, arial, sans-serif;
+	font-weight: 700;
+	font-size: 1.5ex;
+	position:  fixed;
+	float:  left;
+	width:  200px;
+	margin-left: 35px;
+	margin-top: 30px;
+	color: #323131;
+}
+
+img {
+	padding-top: 3px;
+	padding-bottom: 17px;
+	padding-right: 40px;
+	float:  left;
+	}
+	
+.footer {
+	width: 100%;
+	text-align: right;
+	position: relative;
+}
+
+.thesis-background {
+	min-height: 100%
+	min-width: 1024px;
+	width:  100%
+	height: auto
+	position: fixed;
+	top:  0;
+	left:  0;
+	padding-top:  0;
+}
+
+.thesis-background img {
+	padding: 0;
+}
+
+
+.bubble {
+  position: absolute;
+  display: none;
+  background-color: white;
+  border-radius: 10px;
+  padding: 1em;
+  display: none;
+}
+
+#about-blurb {
+  left: 15em;
+  top: 25em;
+  width: 25em;
+}
+
+#contact-blurb {
+  left: 40em;
+  top: 15em;
+  width: 10em;
+}
+
+#contact-blurb a {
+  color: blue;
+}
+
+#links-blurb {
+	left: 10em;
+	top: 35em;
+	width: 25em;
+}
+
+#links-blurb a {
+	color: blue;
+}
+
+
+
+#mute-panel {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  top: -100%;
+  position: absolute;
+  opacity: 0.4;
+  z-index: 1000;
+}
+
+#portfolio-panel {
+  position: absolute;
+  top: -85%;
+  left: 10%;
+  width: 85%;
+  height: 85%;
+  background-color: black;
+  z-index: 1200;
+}
+
+.thumbnail-container {
+  float: left;
+  padding-top: 3em;
+  padding-left: 3em;  
+  width: 20em;
+}
+
+.thumb {
+	background-color: gray;
+	width: 70px;
+	height: 70px;
+  margin: 5px;
+	float: left;
+  border: 3px solid black;
+}
+
+.thumb:hover {
+	border: 3px solid yellow;
+}

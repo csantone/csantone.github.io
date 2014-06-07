@@ -1,0 +1,66 @@
+<html>
+
+<head>
+
+<link rel="stylesheet" href="../../Style_sheets/Project_styles.css" type="text/css" />
+<link href="../../Style_sheets/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="http://use.typekit.com/gfg0phy.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+	<title>Caitlin Santone</title>
+	
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29755784-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	
+</head>
+</html>
+
+<body>
+
+<div class='main'>
+
+			<div class='running-text'>
+			<p><b>Master Composition</b></p>
+			<p><b>Date</b> 2006<br/>
+			<b>Size</b> 48 x 43 in.<br/>
+			<b>Materials</b> Brown paper, charcoal, chalk<br/>
+			
+				
+			<p>This drawing is a compilation of three separate drawings in the collection of the Metropolitan Museum of Art.  I created several on-site sketches of three paintings and combined them into one scene based on my sketches.  The paintings included are: <i>Judith with the Head of Holofernes</i> by Massimo Stanzione (ca. 1640),  <i>A Maid Asleep</i> by Johannes Vermeer (1656-57), and <i>A Young Woman at Her Toilet with a Maid</i> by Gerard ter Borch (ca. 1650-51).</p>
+			</div>
+	<div class="gallery-container">
+  
+			<img src="../../Project_Pages/Master_Composition/Masters_drawing_500.jpg" alt="Master Composition" width="500" height="452"/>
+			
+			<img src="../../Project_Pages/Master_Composition/Allie_500.jpg" alt="Allie with drawing" width="500" height="375"/>
+		
+			
+    </div>
+			
+  </div>
+			
+  <div class='clear'</div>
+			
+	
+	</div>
+</body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<script src="../../Scripts/jquery.mousewheel.min.js"></script>
+<script src="../../Scripts/jquery.mCustomScrollbar.js"></script>
+<script src="../../Scripts/project.js"></script>
+</html>
+

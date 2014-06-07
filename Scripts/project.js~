@@ -1,0 +1,10 @@
+$(function() {
+  if (!($.browser.msie)) {
+    $(".main").mCustomScrollbar({
+      scrollButtons:{
+        enable:true
+      }
+    });
+  }
+  $(".typekit-badge").remove();
+});

@@ -1,0 +1,80 @@
+<html>
+
+<head>
+
+<link rel="stylesheet" href="../../Style_sheets/Project_styles.css" type="text/css" />
+<link href="../../Style_sheets/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="http://use.typekit.com/gfg0phy.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+	<title>Caitlin Santone</title>
+	
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29755784-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	
+</head>
+</html>
+
+<body>
+
+<div class='main'>
+
+			<div class='running-text'>
+			<p><b>Experiments in Grasshopper</b></p>
+			<p><b>Date</b> 2012<br/></p>
+			
+				
+			<p>These designs are selections from a series of exercises developed in the Grasshopper generative modeling plug-in for Rhinoceros, and rendered using V-Ray. </p>
+			</div>
+	<div class="gallery-container">
+  
+			<img src="../../Project_Pages/Grasshopper/Bracelet_abstract_1a.jpg" alt="Bracelet design" width="500" height="364"/>
+			
+			<img src="../../Project_Pages/Grasshopper/Bracelet_design_1a.jpg" alt="Bracelet design" width="500" height="365"/>
+			
+			<img src="../../Project_Pages/Grasshopper/Interpolated_truss_1a.jpg" alt="Interpolated truss" width="500" height="316"/>
+			
+			<img src="../../Project_Pages/Grasshopper/Interpolated_truss_1b.jpg" alt="Interpolated truss" width="500" height="316"/>
+			
+			<img src="../../Project_Pages/Grasshopper/Interpolated_truss_2a.jpg" alt="Interpolated truss" width="500" height="317"/>
+			
+			<img src="../../Project_Pages/Grasshopper/Orient_block_1.jpg" alt="Orient block" width="500" height="307"/>
+			
+			<img src="../../Project_Pages/Grasshopper/Rotating_blocks_1a.jpg" alt="Rotating blocks" width="500" height="336"/>
+
+			<img src="../../Project_Pages/Grasshopper/Rotating_blocks_2a.jpg" alt="Rotating blocks" width="500" height="336"/>
+			
+			<img src="../../Project_Pages/Grasshopper/Rotating_blocks_2b.jpg" alt="Rotating blocks" width="500" height="336"/>
+			
+	
+		
+			
+    </div>
+			
+  </div>
+			
+  <div class='clear'</div>
+			
+	
+	</div>
+</body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<script src="../../Scripts/jquery.mousewheel.min.js"></script>
+<script src="../../Scripts/jquery.mCustomScrollbar.js"></script>
+<script src="../../Scripts/project.js"></script>
+</html>
+

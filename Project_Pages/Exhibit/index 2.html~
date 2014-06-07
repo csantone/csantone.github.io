@@ -1,0 +1,100 @@
+<html>
+
+<head>
+
+<link rel="stylesheet" href="../../Style_sheets/Project_styles.css" type="text/css" />
+<link href="../../Style_sheets/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="http://use.typekit.com/gfg0phy.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+	<title>Caitlin Santone</title>
+	
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29755784-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	
+</head>
+</html>
+
+<body>
+
+<div class='main'>
+
+			<div class='running-text'>
+			<p><b>Interior Architecture Thesis Exhibition</b></p>
+			<p><i>2012 RISD Graduate Thesis Exhibition</i></p>
+			<p><b>Date</b> 2012<br/>
+			<b>Location</b> Providence Convention Center<br/>
+			<b>Size</b> 250 sq. ft.<br/>
+			<b>Design</b> Caitlin Santone, Jason Van Yperen, Sheilah Carroll, and Samantha Rose<br/>
+			<b>Fabrication</b> Original design team and Yuki Kawae</p>
+				
+			<p>The design for the 2011 Master of Interior Architecture Thesis Exhibition emphasizes the theme of adaptive re-use of existing structures which is central to the department's philosophy. The exhibit was organized as a timeline, guiding visitors along sixteen vacant and underused Providence buildings which are now transformed through studentss theses projects. The brown and white single-ply cardboard panels which make up the entire exhibition were pre-fabricated and assembled on location over a period of three days. The entire installation was recycled following the two-week exhibition period.</p>
+			</div>
+	<div class="gallery-container">
+	
+			<img src="../../Project_Pages/Exhibit/Gradshow2_500.jpg" alt="Interior Architecture Thesis Exhibition" width="500" height="614"/>
+  
+			<img src="../../Project_Pages/Exhibit/Gradshow1_500.jpg" alt="Interior Architecture Thesis Exhibition" width="500" height="269"/>
+			
+			<img src="../../Project_Pages/Exhibit/Gradshow3_500.jpg" alt="Interior Architecture Thesis Exhibition" width="500" height="333"/>
+
+			<img src="../../Project_Pages/Exhibit/Gradshow4_500.jpg" alt="Interior Architecture Thesis Exhibition" width="500" height="333"/>
+
+			<img src="../../Project_Pages/Exhibit/Gradshow5_500.jpg" alt="Interior Architecture Thesis Exhibition" width="500" height="602"/>
+			
+			<img src="../../Project_Pages/Exhibit/Gradshow6_500.jpg" alt="Interior Architecture Thesis Exhibition" width="500" height="629"/>
+
+			<img src="../../Project_Pages/Exhibit/Gradshow7_500.jpg" alt="Interior Architecture Thesis Exhibition" width="500" height="333"/>
+			
+			<img src="../../Project_Pages/Exhibit/Gradshow8_500.jpg" alt="Interior Architecture Thesis Exhibition" width="500" height="333"/>
+			
+			<img src="../../Project_Pages/Exhibit/People_in_exhibit.jpg" alt="Interior Architecture Thesis Exhibition" width="500" height="366"/>
+			
+			<img src="../../Project_Pages/Exhibit/Gradprocess1_500.jpg" alt="Interior Architecture Thesis Exhibition Installation" width="500" height="378"/>
+			
+			<img src="../../Project_Pages/Exhibit/Gradprocess2_500.jpg" alt="Interior Architecture Thesis Exhibition Installation" width="500" height="297"/>
+			
+			<img src="../../Project_Pages/Exhibit/Gradprocess3_500.jpg" alt="Interior Architecture Thesis Exhibition Installation" width="500" height="291"/>
+			
+			<img src="../../Project_Pages/Exhibit/Gradprocess4_500.jpg" alt="Interior Architecture Thesis Exhibition Installation" width="500" height="199"/>
+			
+			<img src="../../Project_Pages/Exhibit/Gradprocess5_500.jpg" alt="Interior Architecture Thesis Exhibition Installation" width="500" height="337"/>
+			
+			
+			
+
+
+			
+			
+						
+		
+			
+    </div>
+			
+  </div>
+			
+  <div class='clear'</div>
+			
+	
+	</div>
+</body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<script src="../../Scripts/jquery.mousewheel.min.js"></script>
+<script src="../../Scripts/jquery.mCustomScrollbar.js"></script>
+<script src="../../Scripts/project.js"></script>
+</html>
+

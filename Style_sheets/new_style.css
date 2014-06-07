@@ -1,0 +1,391 @@
+
+
+html, body {
+	height: 100%;
+	padding: 0;
+	margin: 0;
+  font-size: 16px;
+}
+
+.main {
+	background: url(../Project_Pages/Workshops/thesis_large.jpg) no-repeat left top;
+  background-size: cover;
+	min-width: 44em;
+	min-height: 500px;
+  height: 100%;
+  width: 100%;
+  z-index: 1050;
+}
+
+h1 {
+  position: relative;
+  left: 0;
+  top: 0;
+	float:  left;
+	text-align: left;
+	font-family: museo-sans, arial, sans-serif;
+	padding-top: 10px;
+	font-size: 11pt;
+	font-weight: 700;
+	letter-spacing: 2px;
+	margin-left: 25px;
+	z-index: 6000;
+	line-height:  150%;
+}
+
+
+h2 {
+	font-family: museo-sans, sans-serif;
+	font-weight: 700;
+	font-size: 2ex;
+}
+
+.contact-column {
+	position: absolute;
+	width: 4em;
+	height: 10em;
+	top: 3.5em;
+	float: left;
+	margin-left: 25px;
+  	z-index: 1080;
+}
+
+.clear {
+	clear: both;
+}
+	
+a { 
+	text-decoration:none;
+	color: white;
+	z-index: 3000;
+}
+
+.contact-info {
+	height: 1em;
+	float: left;
+	color: white;
+	text-align: left;
+	padding-top:10px;
+	font: 200 12pt museo-sans, arial, sans-serif;
+  z-index: 1075;
+}
+
+.on {
+	border-bottom: 1px solid #CECECE;
+	margin-bottom: -1px;
+}
+
+.contact-info:hover {
+  cursor: pointer;
+	border-bottom: 1px solid #CECECE;
+	margin-bottom: -1px;
+}
+
+a:active, a:visited, a:focus {
+  outline: 0;
+}
+
+.container{
+	margin: 0em;
+	padding: 1em;
+}
+
+.gallery-container {
+	width: 500px;
+	height: 20em;
+  float: right;
+}
+
+p {
+	width: 500px;
+	
+	}
+
+.project-container {
+	width: 800px;
+	position: absolute;
+	left: 10em;
+	float: left;
+	top: 6em;
+	padding-top: 4px;
+	margin-left: 11px;
+}
+
+img {
+	padding-top: 3px;
+	padding-bottom: 17px;
+	padding-right: 40px;
+	float:  left;
+	margin-left: 300px;
+}
+
+.page-links-container {
+	width: 590px;
+	float:left;
+}
+
+.page-links {
+	font-family: museo-sans;
+	font-size: 2ex;
+	font-weight: 300;
+	margin-bottom: 20px;
+	text-align: left;
+	padding-top:20px;
+	width: 200px;
+	float: left;
+	}
+
+.page-links a:hover {
+	border-bottom: 1px solid #CECECE;
+	}
+
+.page-links-right {
+	font-family: museo-sans;
+	font-size: 2ex;
+	font-weight: 300;
+	margin-bottom: 20px;
+	text-align: right;
+	padding-top: 20px;
+	padding-left:20px;
+	width: 40px;
+	float: right;
+	}
+
+.page-links-right a:hover {
+	border-bottom: 1px solid #CECECE;
+	}
+
+.footerpad {
+  min-height: 495px;
+  height: 100%;
+  max-height: 100%;
+}
+	
+.footer {
+	letter-spacing: normal;
+	line-height: 1.5ex;
+	font-size: 1.5ex;
+	font-weight: 300;
+  font-family: museo-sans, sans-serif;
+  color: white;
+  height: 5px;
+  width: 100%;
+  text-align: left;
+  margin-top: -15px;
+  z-index: 30000;
+}
+
+.thesis-background {
+	min-height: 100%;
+	min-width: 1024px;
+	width:  100%;
+	height: auto;
+	position: fixed;
+	top:  0;
+	left:  0;
+	padding-top:  0;
+}
+
+.thesis-background img {
+	padding: 0;
+}
+
+
+.bubble {
+  position: absolute;
+  padding: 1em;
+}
+
+#about-blurb {
+	left: 10em;
+	top: 7em;
+  width: 330px;
+  height: 100px;
+  z-index: 10;
+  display:  none;
+  font: 300 10pt ff-enzo-web, arial, sans-serif;
+  background-color: white;
+  border-radius: 2em;
+}
+
+#about-blurb-bubble {
+	top: 25%;
+	width: 495px;
+	height: 196px;
+	background-image: url(../Thumbnail_images/Speech_bubble.png);
+	background-repeat: no-repeat;
+	display:none;
+	background-size: 75% 80%;
+	left: 16.5%;
+}
+
+#email {
+	float: left;
+	color: white;
+	text-align: left;
+	z-index: 1075;	
+	position: relative;
+	bottom:  0;
+	font-size: 8pt;
+	padding-bottom: 1.75em;
+}
+
+#email:hover {
+	border: none;
+	margin-bottom: 0;
+}
+
+.panel-wrapper {
+  position: absolute;
+	min-height: 500px;
+  min-width: 1250px;
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  max-height: 100%;
+  z-index: 1000;
+  top: -100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: none;
+}
+
+#portfolio-panel {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 100%;
+  min-width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: #080400;
+  border-left: 125px solid rgba(0,0,0,0.4);
+  box-sizing: border-box;
+  ms-box-sizing: border-box;
+  webkit-box-sizing: border-box;
+  moz-box-sizing: border-box;
+	-moz-background-clip: content;     /* Firefox 3.6 */
+	-webkit-background-clip: content;  /* Safari 4? Chrome 6? */
+	background-clip: content-box;      /* Firefox 4, Safari 5, Opera 10, IE 9 */
+}
+
+.portfolio-frame {
+  float: left;
+  min-width: 780px;
+  min-height: 80%;
+  margin-left: 0px;
+  margin-top: 50px;
+  overflow: hidden;
+  border:  none;
+}
+
+.portfolio-wrapper {
+  position: absolute;
+  min-width: 100%;
+  height: 100%;
+  padding: 0;
+}
+
+.portfolio-container {
+  min-height: 100%;
+}
+
+.thumbnail-container {
+  float: left;
+  min-width: 270px;
+  width: 20%;
+  margin-top: 50px;
+  margin-left: 40px;
+  height: 80%;
+  overflow: hidden;
+}
+
+.thumb {
+	width: 60px;
+	height: 60px;
+  padding: 5px;
+	float: left;
+  margin: 5px;
+  opacity: .3;
+}
+
+.sticky {
+  margin: 0px;
+	border: 5px solid yellow;
+  opacity: 1;
+}
+
+.thumb:hover {
+  opacity: 1;
+}
+
+#hide-portfolio {
+  font-weight: bold;
+  font-size: 18pt;
+  width: 1em;
+  height: 1em;
+  position: absolute;
+  margin-bottom: 20px;
+  margin-left: 40px;
+  margin-top: 10px;
+  box-sizing: border-box;
+  ms-box-sizing: border-box;
+  webkit-box-sizing: border-box;
+  moz-box-sizing: border-box;
+  /* background-image: url(mCSB_buttons.png); */
+  /* background-position: -18px 0; */
+  z-index: 10000;
+}
+
+#hide-portfolio:hover {
+  cursor: pointer;
+}
+
+#urban-nurture-thumbnail {
+	background-image: url(../Thumbnail_images/Urban_nurture_thumb_70.jpg);
+}
+
+#rimosa-thumbnail {
+	background-image: url(../Thumbnail_images/Rimosa_thumb_70.jpg);
+}
+
+#picturing-space-thumbnail {
+	background-image: url(../Thumbnail_images/Picturing_space_thumb_70.jpg);
+}
+
+#dinner-thumbnail {
+	background-image: url(../Thumbnail_images/Theseus_thumb_70.jpg);
+	}
+	
+#candleholders-thumbnail {
+	background-image: url(../Thumbnail_images/Candleholders_thumb_70.jpg);
+}
+	
+#mask-thumbnail {
+	background-image: url(../Thumbnail_images/Mask_thumb_70.jpg);
+	}
+	
+#apartment-thumbnail {
+	background-image: url(../Thumbnail_images/Drawing_thumb_70.jpg);
+	}
+	
+#master-drawing-thumbnail {
+	background-image: url(../Thumbnail_images/Master_thumb_70.jpg);
+	}
+	
+#exhibit-thumbnail {
+	background-image: url(../Thumbnail_images/Exhibit_thumb.jpg);
+	}
+
+#grasshopper-thumbnail {
+	background-image: url(../Thumbnail_images/Grasshopper_thumb_70_2.jpg);
+	}
+
+#anthro-thumbnail {
+	background-image: url(../Thumbnail_images/Anthro_thumb_70.jpg);
+	}
+	
+#workshops-thumbnail {
+	background-image: url(../Thumbnail_images/Workshops_thumb_70.jpg);
+	}

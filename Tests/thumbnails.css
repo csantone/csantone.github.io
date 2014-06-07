@@ -1,0 +1,82 @@
+.thumbnail-row{
+	width: 50em;
+}
+
+.thumbnail {
+	float: left;
+	padding: 12px;
+	margin-top: 11px;
+	margin-right: 11px;
+	margin-left: 11px;
+}
+
+.thumbnail-link div {
+	width: 192px;
+	height: 154px;
+}
+
+#urban-nurture-thumbnail {
+	background-image: url(/Thumbnail_images/urban-nurture-for-web.jpg);
+	background-position:-192px 0;
+}
+
+#rimosa-thumbnail {
+	background-image: url(/Thumbnail_images/rimosa_thumb2.jpg);
+	background-position:-192px 0;
+}
+
+#picturing-space-thumbnail {
+	background-image: url(/Thumbnail_images/picturing_space_thumb.jpg);
+	background-position:-192px 0;
+}
+
+#dinner-thumbnail {
+	background-image: url(/Thumbnail_images/plate_thumb.jpg);
+	background-position:-192px 0;
+	}
+	
+#candleholders-thumbnail {
+	background-image: url(/Thumbnail_images/candleholders_thumb.jpg);
+	background-position:-192px 0;
+}
+
+#renderings-thumbnail {
+	background-image: url(/Thumbnail_images/cho_en_dai_thumb.jpg);
+	background-position:-192px 0;
+	}
+	
+#mask-thumbnail {
+	background-image: url(/Thumbnail_images/mask-for-web.jpg);
+	background-position:-192px 0;
+	}
+	
+#apartment-thumbnail {
+	background-image: url(/Thumbnail_images/small_apartment_thumb.jpg);
+	background-position:-192px 0;
+	}
+	
+#master-drawing-thumbnail {
+	background-image: url(/Thumbnail_images/met_drawing_thumb.jpg);
+	background-position:-192px 0;
+	}
+
+
+.thumbnail-title {
+	font-family: museo-sans, Gill Sans, sans-serif;
+	padding-top: .5em;
+	color: #818182;
+	font-size: 2ex;
+	font-weight: 100;
+	width: 190px;
+}
+
+.thumbnail:hover {
+	float: left;
+	background: #FFFFFF;
+	border: 1px solid #CECECE;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: -1px;
+	padding: 12px;
+}

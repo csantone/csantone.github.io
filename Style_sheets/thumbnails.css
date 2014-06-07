@@ -1,0 +1,99 @@
+/* @override 
+	http://localhost:8000/Style_sheets/thumbnails.css */
+
+.thumbnail-row{
+	width: 50em;
+}
+
+.thumbnail {
+	float: left;
+	padding: 12px;
+	margin-top: 11px;
+	margin-right: 11px;
+	margin-left: 11px;
+}
+
+.thumbnail-link div {
+	width: 192px;
+	height: 154px;
+}
+
+#urban-nurture-thumbnail {
+	background-image: url(../Thumbnail_images/urban-nurture-for-web.jpg);
+}
+
+#rimosa-thumbnail {
+	background-image: url(../Thumbnail_images/Rimosa_thumb_70.jpg);
+}
+
+#picturing-space-thumbnail {
+	background-image: url(../Thumbnail_images/Picturing_space_thumb_70.jpg);
+}
+
+#dinner-thumbnail {
+	background-image: url(../Thumbnail_images/Theseus_thumb_70.jpg);
+	}
+	
+#candleholders-thumbnail {
+	background-image: url(../Thumbnail_images/Candleholders_thumb_70.jpg);
+}
+	
+#mask-thumbnail {
+	background-image: url(../Thumbnail_images/Mask_thumb_70.jpg);
+	}
+	
+#apartment-thumbnail {
+	background-image: url(../Thumbnail_images/Drawing_thumb_70.jpg);
+	}
+	
+#master-drawing-thumbnail {
+	background-image: url(../Thumbnail_images/Master_thumb_70.jpg);
+	}
+	
+#exhibit-thumbnail {
+	background-image: url(../Thumbnail_images/Exhibit_thumb.jpg);
+	}
+
+#grasshopper-thumbnail {
+	background-image: url(../Thumbnail_images/Grasshopper_thumb_70_2.jpg);
+	}
+
+#anthro-thumbnail {
+	background-image: url(../Thumbnail_images/Anthro_thumb_70.jpg);
+	}
+	
+#workshops-thumbnail {
+	background-image: url(../Thumbnail_images/Workshops_thumb_70.jpg);
+	}
+
+#mini-thumb {
+	background-color: fuchsia;
+	width: 40px;
+	height:  100px;
+}
+
+.thumbnail-title {
+	font-family: museo-sans, Gill Sans, sans-serif;
+	padding-top: .5em;
+	color: #818182;
+	font-size: 2ex;
+	font-weight: 100;
+	width: 190px;
+}
+
+.thumbnail:hover {
+	float: left;
+	background: #FFFFFF;
+	border: 1px solid #CECECE;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: -1px;
+	padding: 12px;
+}
+
+.mini-thumb {
+	color: orange;
+	width: 100px;
+	height: 100px;
+}

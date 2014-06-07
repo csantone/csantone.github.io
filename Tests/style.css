@@ -1,0 +1,167 @@
+html, body {
+	height: 100%;
+}
+	
+.main {
+	width: 50em;
+	height: 100%;
+}
+
+h1 {
+	text-align: left;
+	font-family: museo-sans;
+	position: absolute;
+	left: 2em;
+	padding-top: .25em;
+	background-color: white;
+	font-size: 2.5ex;
+	color: black;
+	font-weight: 300;
+	letter-spacing: 2px;
+}
+
+body {
+background-color: white;
+}
+
+
+h2 {
+	font-family: museo-sans;
+	font-weight: 700;
+	font-size: 2ex;
+}
+
+.contact-column {
+	position: absolute;
+	width: 4em;
+	height:10em;
+	top: 6em;
+	float: left;
+}
+
+.clear {
+	clear: both;
+}
+	
+a { 
+	text-decoration:none;
+	color: black;
+}
+
+.contact-info {
+	height: 1em;
+	float: left;
+	color: black;
+	font-family: museo-sans, Gill Sans, sans-serif;
+	margin-left: 2em;
+	text-align: left;
+	font-size: 2ex;
+	font-weight: 100;
+	padding-top:10px;
+}
+
+
+.contact-info:hover {
+	border-bottom: 1px solid #CECECE;
+	margin-bottom: -1px;
+}
+
+.container{
+	margin: 0em;
+	padding: 1em;
+}
+
+.gallery-container {
+	width: 50em;
+	height: 20em;
+	position: absolute;
+	left: 10em;
+	top: 5em;
+}
+
+p {
+	width: 500px;
+}
+
+.running-text {
+	font-family: museo-sans;
+	float: left;
+	margin-right: 2em;
+	margin-bottom: 2em;
+	letter-spacing: normal;
+	line-height: 2.5ex;
+	font-size: 1.75ex;
+	font-weight: 300;
+	}
+
+.running-text2 {
+	font-family: museo-sans;
+	float: right;
+	margin-bottom: 1em;
+	letter-spacing: normal;
+	line-height: 1ex;
+	font-size: 1ex;
+	font-weight: 300;
+}
+
+.project-container {
+	width: 800px;
+	position: absolute;
+	left: 10em;
+	float: left;
+	top: 6em;
+	padding-top: 4px;
+	margin-left: 11px;
+}
+
+img {
+	padding-top: 3px;
+	padding-bottom: 17px;
+	padding-right: 20px;
+}
+
+.page-links-container {
+	width: 590px;
+	float:left;
+}
+
+.page-links {
+	font-family: museo-sans;
+	font-size: 2ex;
+	font-weight: 300;
+	margin-bottom: 20px;
+	text-align: left;
+	padding-top:20px;
+	width: 200px;
+	float: left;
+	}
+
+.page-links a:hover {
+	border-bottom: 1px solid #CECECE;
+	}
+
+.page-links-right {
+	font-family: museo-sans;
+	font-size: 2ex;
+	font-weight: 300;
+	margin-bottom: 20px;
+	text-align: right;
+	padding-top: 20px;
+	padding-left:20px;
+	width: 40px;
+	float: right;
+	}
+
+.page-links-right a:hover {
+	border-bottom: 1px solid #CECECE;
+	}
+	
+.footer {
+	width: 100%;
+	text-align: right;
+	position: relative;
+}
+
+
+
+

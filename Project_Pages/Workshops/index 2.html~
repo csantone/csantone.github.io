@@ -1,0 +1,162 @@
+<html>
+
+<head>
+
+<link rel="stylesheet" href="../../Style_sheets/Project_styles.css" type="text/css" />
+<link href="../../Style_sheets/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="http://use.typekit.com/gfg0phy.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+	<title>Caitlin Santone</title>
+	
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29755784-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	
+</head>
+</html>
+
+<body>
+
+<div class='main'>
+
+			<div class='running-text'>
+			<p><b>(WORK)SHOPS</b></p>
+			<p><i>Flexible Marketplace</i></p>
+			<p><b>Date</b> 2012<br/>
+			<b>Location</b> 128 North Main Street Providence, RI<br/>
+			<b>Size</b> 9,000 sq. ft.</p>
+				
+			<p>The end of shopping as a physically-located experience, and the end of craft in favor of mass-production have led to the deterioration of the shop as a place for the shaping of individual and communal identity.  However, we must acknowledge that for efficiency and economics, mass-production has a place in retail design. Through the insertion of several small shops and workshops in a vacant space along Providence's Main Street, this project proposes that a compromise between traditional craft and contemporary mass-production methods can deliver an idiosyncratic experience that preserves the localness of a city and its community, while providing flexibility for future growth.</p>
+			</div>
+	<div class="gallery-container">
+	
+			<img src="../../Project_Pages/Workshops/site_plan.jpg" alt="Process sketch" width="500" height="570"/>
+			
+			<div class="caption"<p>Site plan of 128 N. Main Street Providence</p></div>
+			
+			<img src="../../Project_Pages/Workshops/Existing1.jpg" alt="Process sketch" width="500" height="375"/>
+			
+			<div class="caption"<p>Existing exterior</p></div>
+	
+			<img src="../../Project_Pages/Workshops/early_parti.jpg" alt="Process sketch" width="500" height="408"/>
+			
+			<div class="caption"<p>Early parti diagram showing connections between different small shops and their activities</p></div>
+	
+			<img src="../../Project_Pages/Workshops/process_sketch_1.jpg" alt="Process sketch" width="500" height="230"/>
+			
+			<div class="caption"<p>Process sketch showing workshops which interact with existing columns and arches</p></div>
+			
+			<img src="../../Project_Pages/Workshops/process_sketch_2.jpg" alt="Process sketch" width="500" height="333"/>
+			
+			<div class="caption"<p>Process sketch showing a band which runs through interior and connects workshops</p></div>
+			
+			<img src="../../Project_Pages/Workshops/process_sketch_3.jpg" alt="Process sketch" width="500" height="437"/>
+			
+			<div class="caption"<p>The band functions as a workspace in some shops and a place for serving customers in others</p></div>
+			
+			<img src="../../Project_Pages/Workshops/process_model_3.jpg" alt="Early process model" width="500" height="309"/>
+			
+			<div class="caption"<p>Process model showing the columns encapsulated by walls which unfold in places</p></div>
+			
+			<img src="../../Project_Pages/Workshops/workshops_parti.jpg" alt="Parti diagram" width="500" height="453"/>
+			
+			<div class="caption"<p>Parti diagram - shops are based on column grid and activity flows out from these three main structures</p></div>
+			
+			<img src="../../Project_Pages/Workshops/program_map.jpg" alt="Program map" width="500" height="224"/>
+  
+  			<div class="caption"<p>Program diagram</p></div>
+  
+  			<img src="../../Project_Pages/Workshops/interventions_strategies_small.jpg" alt="Intervention Strategies" width="500" height="352"/>
+  			
+  			<div class="caption"<p>Intervention strategies diagram</p></div>
+  			
+  			<img src="../../Project_Pages/Workshops/process_model_4.jpg" alt="Early process model" width="500" height="328"/>
+  			
+  			<div class="caption"<p>Process model showing development of butcher shop</p></div>
+  
+			<img src="../../Project_Pages/Workshops/early_rendering.jpg" alt="Early rendering" width="500" height="336"/>
+			
+			<div class="caption"<p>Early rendering (Rhino, Podium, and Photoshop)</p></div>
+			
+			<img src="../../Project_Pages/Workshops/panel_diagrams.jpg" alt="Workshops Flexible Panel Diagrams" width="500" height="296"/>
+			
+			<div class="caption"<p>Panels have been grouped into four categories based on movement</p></div>
+			
+			<img src="../../Project_Pages/Workshops/workshops_section.jpg" alt="Section" width="500" height="104"/>
+			
+			<div class="caption"<p>Section through space</p></div>
+			
+			<img src="../../Project_Pages/Workshops/Floor_plan.jpg" alt="Panel Detail" width="500" height="360"/>
+			
+			<div class="caption"<p>Plan of Workshops showing all of the panels open</p></div>
+			
+			<img src="../../Project_Pages/Workshops/rendering.jpg" alt="Workshops Interior Rendering" width="500" height="284"/>
+			
+			<div class="caption"<p>View through multiple shops including shoe repair, espresso bar, and butcher shop (Rhino, V-Ray, Photoshop)</p></div>
+			
+			<img src="../../Project_Pages/Workshops/Model_1a.jpg" alt="Model" width="500" height="133"/>
+			
+			<div class="caption"<p>Partial model of space (bass wood and chipboard constructed to 1/8"=1')</p></div>
+			
+			<img src="../../Project_Pages/Workshops/Model_1b.jpg" alt="Model" width="500" height="375"/>
+			
+			<div class="caption"<p>Interior view of model</p></div>
+			
+			<img src="../../Project_Pages/Workshops/Model_1c.jpg" alt="Model" width="500" height="157"/>
+			
+			<div class="caption"<p>Opposite face of model showing shop in the process of opening with some doors open and others closed</p></div>
+			
+			<img src="../../Project_Pages/Workshops/Panel_detail1.jpg" alt="Panel Detail" width="500" height="251"/>
+			
+			<div class="caption"<p>Detail of panel which transforms into counter</p></div>
+			
+			<img src="../../Project_Pages/Workshops/Panel_detail2.jpg" alt="Panel Detail" width="500" height="449"/>
+			
+			<div class="caption"<p>Detail of glazing at top of panels and reveal at base</p></div>
+			
+			<img src="../../Project_Pages/Workshops/Elevation1.jpg" alt="Elevation" width="500" height="246"/>
+			
+			<div class="caption"<p>Original east facade remains the same</p></div>
+			
+			<img src="../../Project_Pages/Workshops/Elevation2.jpg" alt="Elevation" width="500" height="137"/>
+			
+			<div class="caption"<p>Multiple entrances, a patio, and staircase are installed on west facade</p></div>
+			
+			<img src="../../Project_Pages/Workshops/Elevation3.jpg" alt="Elevation" width="500" height="123"/>
+			
+			<div class="caption"<p>Windows on south facade are extended to floor</p></div>
+			
+			<img src="../../Project_Pages/Workshops/Elevation4.jpg" alt="Elevation" width="500" height="126"/>
+			
+			<div class="caption"<p>New glazing is installed and old side entrance to back stirwell is redirected to west entrance in order to free the sidewalk from the current stairwell and ramp which hinders pedestrian traffic</p></div>
+			
+			
+    </div>
+			
+  </div>
+			
+  <div class='clear'</div>
+			
+	
+	</div>
+</body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<script src="../../Scripts/jquery.mousewheel.min.js"></script>
+<script src="../../Scripts/jquery.mCustomScrollbar.js"></script>
+<script src="../../Scripts/project.js"></script>
+</html>
+

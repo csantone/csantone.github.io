@@ -1,0 +1,63 @@
+<html>
+
+<head>
+
+<link rel="stylesheet" href="../../Style_sheets/Project_styles.css" type="text/css" />
+<link href="../../Style_sheets/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="http://use.typekit.com/gfg0phy.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+	<title>Caitlin Santone</title>
+	
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29755784-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	
+</head>
+</html>
+
+<body>
+
+<div class='main'>
+
+			<div class='running-text'>
+			<p><b>My Places Mask</b></p>
+			<p><b>Date</b> 2010<br/>
+			<b>Materials</b> Bristol paper, papier-mache, and graphite<br/>
+				
+			<p>This mask project asked students the question, “What do you want to share about yourself with your classmates?” A mask is supposed to reveal or hide aspects of a character.  This idea of a mask and its role in theater led me to the subject of set design. I created a mask of the sets of some of the places that have most influenced me: my house in Pennsylvania, an apartment in Venice, and the Brooklyn Bridge.</p>
+			</div>
+	<div class="gallery-container">
+  
+			<img src="../../Project_Pages/Mask/Mask_500.jpg" alt="My Places Mask" width="500" height="521"/>
+			
+			<img src="../../Project_Pages/Mask/Caitlin_500.jpg" alt="My Places Mask" width="500" height="652"/>
+			
+    </div>
+			
+  </div>
+			
+  <div class='clear'</div>
+			
+	
+	</div>
+</body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<script src="../../Scripts/jquery.mousewheel.min.js"></script>
+<script src="../../Scripts/jquery.mCustomScrollbar.js"></script>
+<script src="../../Scripts/project.js"></script>
+</html>
+
